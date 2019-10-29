@@ -1,9 +1,12 @@
 import React from 'react';
 
 import KanbanBoard from './components/kanban/KanbanBoard'; 
+// import KanbanAddForm from './components/kanban/KanbanAddForm';
 
 
 function App() {
+
+
   let cardList = [
     {
       id: 1,
